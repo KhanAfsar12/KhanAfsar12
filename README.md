@@ -52,7 +52,7 @@ Building AI-powered solutions and scalable backend systems.
 
 ### 📬 Let's Collaborate!  
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/afsarkhandeveloper)
-[![Email](https://img.shields.io/badge/-Reach_via_Email-D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Reach_via_Email-D14836?logo=gmail&style=for-the-badge)](mailto:afsarkhandeveloper@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/yourhandle)
 
 ---
