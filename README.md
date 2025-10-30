@@ -29,11 +29,6 @@ I'm a passionate Python developer dedicated to building scalable applications an
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
 
----
-
-### 📈 GitHub Analytics  
-| ![AfSar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afsarkhan&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarkhan&layout=compact&theme=dark&hide_border=true) |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
