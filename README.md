@@ -33,7 +33,7 @@ I'm a passionate Python developer dedicated to building scalable applications an
 ---
 
 ### 🏢 Current Work  
-**Python Developer @ [Ease My AI Pvt. Ltd.](https://easemyai.com)**  
+**Back End Developer @ [Ease My AI Pvt. Ltd.](https://easemyai.com)**  
 Building AI-powered solutions and scalable backend systems.
 
 ---
