@@ -16,9 +16,10 @@ I'm a passionate Python developer dedicated to building scalable applications an
 
 #### ☕ Java Ecosystem
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![Spring-Framework](https://img.shields.io/badge/-Spring%2520Framework-6DB33F?logo=spring)
+![Spring](https://img.shields.io/badge/-Spring%2520Framework-6DB33F?logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate)
-![Servlet-JSP](https://img.shields.io/badge/-Servlet%252FJSP-007396?logo=java)
+![Servlet](https://img.shields.io/badge/Java_Servlet-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 #### 🗃️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
@@ -29,6 +30,9 @@ I'm a passionate Python developer dedicated to building scalable applications an
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-FF6F00?logo=githubactions)
+
+#### 🏗️ Microservices Architecture
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=serverless&logoColor=white)
 
 #### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
