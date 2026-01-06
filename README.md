@@ -14,6 +14,12 @@ I'm a passionate Python developer dedicated to building scalable applications an
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
 ![Frappe](https://img.shields.io/badge/-Frappe_Framework-5e64ff)
 
+☕ Java Ecosystem
+https://img.shields.io/badge/-Java-007396?logo=java
+https://img.shields.io/badge/-Spring%2520Framework-6DB33F?logo=spring
+https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate
+https://img.shields.io/badge/-Servlet%252FJSP-007396?logo=java
+
 #### 🗃️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
