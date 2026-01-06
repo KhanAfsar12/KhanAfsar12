@@ -16,9 +16,9 @@ I'm a passionate Python developer dedicated to building scalable applications an
 
 #### ☕ Java Ecosystem
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![Spring Framework](https://img.shields.io/badge/-Spring%2520Framework-6DB33F?logo=spring)
+![Spring-Framework](https://img.shields.io/badge/-Spring%2520Framework-6DB33F?logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate)
-![Servlet JSP](https://img.shields.io/badge/-Servlet%252FJSP-007396?logo=java)
+![Servlet-JSP](https://img.shields.io/badge/-Servlet%252FJSP-007396?logo=java)
 
 #### 🗃️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
