@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Afsar Khan 
 
-🚀 **Python Developer | Django Specialist | AI & Automation Enthusiast**  
+🚀 **Python Developer | Backend Development | AI & Automation Enthusiast**  
 
 ### 🔍 About Me
 I'm a passionate Python developer dedicated to building scalable applications and mastering advanced tech like **Generative AI, Machine Learning, and System Design**. My mission? To evolve into a **Technology Architect** while empowering others through mentorship.
